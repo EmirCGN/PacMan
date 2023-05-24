@@ -26,5 +26,4 @@ Dieses Projekt ist eine coole und farbenfrohe Umsetzung des klassischen Pac-Man-
 
 Das Spielfeld ist ein farbenfrohes Raster aus Wänden (#), Punkten (.), Power-Pillen (O) und Geistern (G), durch das sich der Pac-Man bewegen kann.
 
-Beispiel-Spielfeld:
 
